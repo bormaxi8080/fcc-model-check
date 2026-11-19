@@ -142,7 +142,7 @@ https://integrate.api.nvidia.com/v1/chat/completions
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fcc-model-check.git
+git clone https://github.com/bormaxi8080/fcc-model-check.git
 cd fcc-model-check
 ```
 
@@ -779,6 +779,4 @@ If that happens, the transient/error classification tables in the script can be 
 
 ## License
 
-No license is included by default.
-
-Before publishing the repository, add the license you want to use, for example MIT, Apache-2.0, or another license appropriate for your project.
+This project is distributed under the [MIT License](LICENSE).
